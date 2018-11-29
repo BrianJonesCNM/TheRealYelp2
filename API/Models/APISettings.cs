@@ -7,5 +7,7 @@ namespace Models
         public string YelpBaseUrl { get; set; }
         public string YelpClientID { get; set; }
         public string YelpAPIKey { get; set; }
+        public string APIBaseUrl { get; set; }
+
     }
 }
